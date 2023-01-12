@@ -1,4 +1,4 @@
-# music_-player 
+# music__player 
 Please-Read me
 
 1)In this project I am using pygame's mixer music load method which only support mpeg song format so please play only those song whose extension is mpeg 
